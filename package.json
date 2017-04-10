@@ -1,0 +1,21 @@
+{
+  "name": "example_02_simple_data_import",
+  "version": "1.0.0",
+  "description": "Simple script to import JSON data into GraphCMS",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node src/index.js"
+  },
+  "keywords": ["GraphCMS", "Import"],
+  "author": "GraphCMS",
+  "license": "MIT",
+  "dependencies": {
+    "lokka": "^1.7.0",
+    "lokka-transport-http": "^1.6.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-plugin-transform-async-to-generator": "^6.22.0"
+  }
+}

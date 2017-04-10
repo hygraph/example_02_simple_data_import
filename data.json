@@ -1,0 +1,34 @@
+[{
+  "title": "Using GraphQL subscriptions with Apollo",
+  "event": "GraphQL London #3",
+  "date": "03.27.2017",
+  "location": {
+    "lat": 51.5257433,
+    "lng": -0.1421112
+  },
+  "speakers": ["Johannes Schickling"],
+  "link": "https://www.meetup.com/GraphQL-London/events/238027448",
+  "description": "Johannes Schickling is the co-founder of @graphcool. Graduated from Entrepreneur First 15/16. His personality type is ENTJ. He is also a tuts+ author and passionate about open source, algorithms, math and technology."
+}, {
+  "title": "Workshop - Building a React Native App with Exponent & Apollo Client",
+  "event": "GraphQL London",
+  "date": "03.29.2017",
+  "location": {
+    "lat": 51.5185508,
+    "lng": -0.088303
+  },
+  "speakers": ["Johannes Schickling", "Gerard Sans"],
+  "link": "https://www.meetup.com/GraphQL-London/events/238058466",
+  "description": "In this workshop you will learn how to use Apollo Client in combination with Exponent to build React Native apps. Throughout the workshop you will build a fully-functional Pokedex app while learning about all necessary concepts and tools. (To focus as much as possible on getting started with Apollo Client, we assume you’re already familiar with React and know the basics of GraphQL and Exponent.)"
+}, {
+  "title": "GraphQL-Europe Conference",
+  "event": "Graphql Conference",
+  "date": "03.21.2017",
+  "location": {
+    "lat": 52.5017113,
+    "lng": 13.4478402
+  },
+  "speakers": ["Lee Byron", "Sashko Stubailo"],
+  "link": "https://graphql-europe.org",
+  "description": "GraphQL-Europe is a non-profit GraphQL conference in Europe with speakers from all around the world. Learn about GraphQL best practices from industry experts and become part of the thriving GraphQL community."
+}]
